@@ -1,0 +1,5 @@
+# name: Image
+# contributor: WU Xin
+# key: im
+# --
+{% img /images/blog_imgs/${1:image.png} ${2:320} ${3:240} %} $0

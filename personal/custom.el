@@ -1,0 +1,11 @@
+(global-linum-mode t)
+;;(disable-theme 'zenburn)
+(global-set-key (kbd "M-O") 'prelude-smart-open-line-above)
+(setq prelude-clean-whitespace-on-save t)
+;;(load-theme 'ir-black t)
+(load-theme 'monokai t)
+;;(load-theme 'solarized-dark t)
+(yas-global-mode 1)
+;;(load-theme 'solarized-light t)
+(provide 'custom)
+;;; custom.el ends here

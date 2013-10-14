@@ -1,0 +1,5 @@
+# name: Strong
+# contributor: WU Xin
+# key: **
+# --
+**${1:Text}** $0

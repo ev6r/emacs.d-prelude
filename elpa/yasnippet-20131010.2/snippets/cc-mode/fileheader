@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: FileHeader
+# key: fh
+# --
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Author:      WU Xin
+ * Date:        `(current-time-string)`
+ * Marks:       $1
+ * Version:     v 1.0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+$2
